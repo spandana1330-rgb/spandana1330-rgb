@@ -41,24 +41,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
----
 
-## 🚀 Featured Project
-
-### 📄 Smart Resume Analyzer
-> An intelligent tool that analyzes your resume and generates a tailored resume
-> based on the job description and job role — helping candidates stand out in
-> the hiring process.
-
-`Python` &nbsp; [View Repo](https://github.com/spandana1330-rgb)
-
-**What it does:**
-- 📥 Takes your existing resume as input
-- 🔍 Analyzes it against a specific job description & role
-- 📝 Generates an optimized, job-specific resume automatically
-- 🎯 Helps match your profile to what recruiters are looking for
-
----
 
 ## 🏆 Certifications
 
