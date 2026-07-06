@@ -43,13 +43,8 @@
 
 
 
-## 🏆 Certifications
 
-| Certificate | Issuer | Status |
-|-------------|--------|--------|
-| 🏅 Python Programming | IBM (Genesis) | ✅ Completed |
 
----
 
 ## 📈 GitHub Stats
 
